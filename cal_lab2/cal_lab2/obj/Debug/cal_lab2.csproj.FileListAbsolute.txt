@@ -1,0 +1,7 @@
+C:\OOPC#\cal_lab2\cal_lab2\bin\Debug\cal_lab2.exe.config
+C:\OOPC#\cal_lab2\cal_lab2\bin\Debug\cal_lab2.exe
+C:\OOPC#\cal_lab2\cal_lab2\bin\Debug\cal_lab2.pdb
+C:\OOPC#\cal_lab2\cal_lab2\obj\Debug\cal_lab2.csproj.AssemblyReference.cache
+C:\OOPC#\cal_lab2\cal_lab2\obj\Debug\cal_lab2.csproj.CoreCompileInputs.cache
+C:\OOPC#\cal_lab2\cal_lab2\obj\Debug\cal_lab2.exe
+C:\OOPC#\cal_lab2\cal_lab2\obj\Debug\cal_lab2.pdb
