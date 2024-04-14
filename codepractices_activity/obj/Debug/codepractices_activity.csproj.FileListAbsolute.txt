@@ -1,0 +1,7 @@
+C:\OOPC#\codepractices_activity\codepractices_activity\bin\Debug\codepractices_activity.exe.config
+C:\OOPC#\codepractices_activity\codepractices_activity\bin\Debug\codepractices_activity.exe
+C:\OOPC#\codepractices_activity\codepractices_activity\bin\Debug\codepractices_activity.pdb
+C:\OOPC#\codepractices_activity\codepractices_activity\obj\Debug\codepractices_activity.csproj.AssemblyReference.cache
+C:\OOPC#\codepractices_activity\codepractices_activity\obj\Debug\codepractices_activity.csproj.CoreCompileInputs.cache
+C:\OOPC#\codepractices_activity\codepractices_activity\obj\Debug\codepractices_activity.exe
+C:\OOPC#\codepractices_activity\codepractices_activity\obj\Debug\codepractices_activity.pdb
