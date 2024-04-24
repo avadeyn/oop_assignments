@@ -1,0 +1,7 @@
+C:\OOPC#\coding_challenge\coding_challenge\obj\Debug\coding_challenge.csproj.AssemblyReference.cache
+C:\OOPC#\coding_challenge\coding_challenge\obj\Debug\coding_challenge.csproj.CoreCompileInputs.cache
+C:\OOPC#\coding_challenge\coding_challenge\bin\Debug\coding_challenge.exe.config
+C:\OOPC#\coding_challenge\coding_challenge\bin\Debug\coding_challenge.exe
+C:\OOPC#\coding_challenge\coding_challenge\bin\Debug\coding_challenge.pdb
+C:\OOPC#\coding_challenge\coding_challenge\obj\Debug\coding_challenge.exe
+C:\OOPC#\coding_challenge\coding_challenge\obj\Debug\coding_challenge.pdb
